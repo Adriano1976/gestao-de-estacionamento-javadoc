@@ -1,0 +1,9 @@
+com.parking.aju
+com.parking.aju.config
+com.parking.aju.controller
+com.parking.aju.controller.dto
+com.parking.aju.controller.mapper
+com.parking.aju.exception
+com.parking.aju.model
+com.parking.aju.repositoty
+com.parking.aju.service
